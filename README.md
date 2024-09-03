@@ -12,8 +12,8 @@ This repository contains Playwright-based end-to-end tests for the Magento demo 
 
  **Clone the Repository**
    ```bash
-   git clone https://github.com/your-repo/magento-playwright-tests.git
-   cd magento-playwright-tests
+   git clone (https://github.com/linasit/Magento-Test-Automation/tree/Magento-test-automation)
+   cd Magento-Test-Automation
    ```
  **Install Node.js and npm**
 
