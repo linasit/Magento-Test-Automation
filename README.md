@@ -2,7 +2,7 @@
 
 This repository contains Playwright-based end-to-end tests for the Magento demo store.
 
-## **Prerequisites**
+## **Requirements**
 
 - **Node.js** (>=14.x)
 - **npm** (comes with Node.js)
